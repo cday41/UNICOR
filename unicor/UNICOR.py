@@ -10,7 +10,7 @@ appName = "UNICOR"
 appVers = "3.0.00"
 authorNames = "E.L. Landguth, et al."
 
-# ----------------------------------------------------------
+# ---------------------------------------------------------- 
 # Global symbols, if any :))
 #-----------------------------------------------------------
 # Point threshold for graph metrics NetworkX library
